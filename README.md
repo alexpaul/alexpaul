@@ -4,7 +4,7 @@ iOS instructor at [Pursuit](https://www.pursuit.org).
 Swift enthusiast.  
 Continuously on the hunt to better my craft and growth.   
 2x IRONMAN.  
-Father or a 🐉  and a 🐒.  
+Father or a 🐉  + 🐒.  
 
 <!--
 **alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
