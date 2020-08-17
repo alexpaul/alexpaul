@@ -6,6 +6,8 @@ Continuously on the hunt to better my craft and growth.
 2x IRONMAN.  
 Father or a 🐉  + 🐒.  
 
+Read about my journey [here](https://people.com/human-interest/ios-developer-alex-paul-shares-his-incredible-immigration-story/). 
+
 <!--
 **alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
