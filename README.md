@@ -8,6 +8,12 @@ Father or a 🐉  + 🐒.
 
 Read about my journey [here](https://people.com/human-interest/ios-developer-alex-paul-shares-his-incredible-immigration-story/). 
 
+## Other repos I'm working on 
+
+| Reposittory | Description |
+|:--------:|:----------|
+| JavaScript Primer | Content assumes you have some prior programming background e.g Swift |
+
 <!--
 **alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
