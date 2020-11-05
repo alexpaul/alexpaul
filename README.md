@@ -12,7 +12,8 @@ Read about my journey [here](https://people.com/human-interest/ios-developer-ale
 
 | Reposittory | Description |
 |:--------:|:----------|
-| JavaScript Primer | Content assumes you have some prior programming background e.g Swift |
+| [JavaScript Primer](https://github.com/alexpaul/JavaScript) | Content assumes you have some prior programming background e.g Swift |
+| [Sofware Development Resources](https://github.com/alexpaul/SoftwareDevelopmentResources) | A place to get learning resources for iOS, Web, Android etc for your Software Development needs |
 
 <!--
 **alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
