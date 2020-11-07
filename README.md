@@ -8,7 +8,7 @@ Father or a 🐉  + 🐒.
 
 Read about my journey [here](https://people.com/human-interest/ios-developer-alex-paul-shares-his-incredible-immigration-story/). 
 
-## Additional Pins you may be interested in visiting 
+## Additional Pins of interest 
 
 | Reposittory | Description |
 |:--------:|:----------|
