@@ -12,8 +12,9 @@ Read about my journey [here](https://people.com/human-interest/ios-developer-ale
 
 | Reposittory | Description |
 |:--------:|:----------|
-| [JavaScript Primer](https://github.com/alexpaul/JavaScript) | Content assumes you have some prior programming background e.g Swift |
+| [My YouTube Channel](http://youtube.com/alexpaulnyc) | Videos on Swift and iOS, you may also run into an occasionaly Zwift 🚴 ride |
 | [Sofware Development Resources](https://github.com/alexpaul/SoftwareDevelopmentResources) | A place to get learning resources for iOS, Web, Android etc for your Software Development needs |
+| [JavaScript Primer](https://github.com/alexpaul/JavaScript) | Content assumes you have some prior programming background e.g Swift |
 
 <!--
 **alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
