@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 iOS instructor at [Pursuit](https://www.pursuit.org).  
 Swift enthusiast.  
