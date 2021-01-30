@@ -16,6 +16,7 @@ Read about my journey [here](https://people.com/human-interest/ios-developer-ale
 | [Sofware Development Resources](https://github.com/alexpaul/SoftwareDevelopmentResources) | A place to get learning resources for iOS, Web, Android etc for your Software Development needs |
 | [JavaScript Primer](https://github.com/alexpaul/JavaScript) | Content assumes you have some prior programming background e.g Swift |
 | [Civil Rights Media](https://github.com/alexpaul/Civil-Rights-Media) | Civil Rights Media API |
+| [Compositional Layout](https://github.com/alexpaul/Compositional-Layout) | Getting up and running with Compositional Layout in Collection Views |
 
 <!--
 **alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
