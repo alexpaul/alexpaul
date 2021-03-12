@@ -18,6 +18,7 @@ Read about my journey [here](https://people.com/human-interest/ios-developer-ale
 | [Civil Rights Media](https://github.com/alexpaul/Civil-Rights-Media) | Civil Rights Media API |
 | [Compositional Layout](https://github.com/alexpaul/Compositional-Layout) | Getting up and running with Compositional Layout in Collection Views |
 | [Objective-C Primer](https://github.com/alexpaul/Objective-C-Primer) | Get up and running with Objective-C  |
+| [Apple Technologies](https://developer.apple.com/documentation/technologies) | Apple Technologies |
 
 <!--
 **alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
