@@ -1,10 +1,13 @@
 ### Hi there 👋🏾
 
-iOS instructor at [Pursuit](https://www.pursuit.org).  
+Software Engineer at the New York Times.   
+Community iOS Advisor at [Pursuit](https://www.pursuit.org).  
 Swift enthusiast.  
 Continuously on the hunt to better my craft and growth.   
-2x IRONMAN 🏊🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️  
+
 Father or a 🐉  + 🐒.  
+2 x IRONMAN Finisher 🏊🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️  
+Multiple Marathon Finisher. 
 
 Read about my journey [here](https://people.com/human-interest/ios-developer-alex-paul-shares-his-incredible-immigration-story/). 
 
