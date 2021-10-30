@@ -2,9 +2,9 @@
 
 Software Engineer at the New York Times.   
 Community iOS Advisor at [Pursuit](https://www.pursuit.org).  
-Continuously on the hunt to better my craft and growth.   
+Continuously on the hunt to better my craft as a Software Engineer.   
 
-Father or a 🐉  + 🐒.  
+Father or a 🐉  and a 🐒.  
 2 x IRONMAN Finisher 🏊🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️  
 Multiple Marathon Finisher. 
 
