@@ -2,7 +2,6 @@
 
 Software Engineer at the New York Times.   
 Community iOS Advisor at [Pursuit](https://www.pursuit.org).  
-Swift enthusiast.  
 Continuously on the hunt to better my craft and growth.   
 
 Father or a 🐉  + 🐒.  
