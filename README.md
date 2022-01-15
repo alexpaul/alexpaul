@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 
 Software Engineer at the New York Times.   
-Community iOS Advisor at [Pursuit](https://www.pursuit.org).  
+Community Advisor at [Pursuit](https://www.pursuit.org).  
 Continuously on the hunt to better my craft as a Software Engineer.   
 
 Father or a 🐉  and a 🐒.  
