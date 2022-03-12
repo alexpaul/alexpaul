@@ -23,7 +23,7 @@ Read about my journey [here](https://people.com/human-interest/ios-developer-ale
 | [Compositional Layout](https://github.com/alexpaul/Compositional-Layout) | Getting up and running with Compositional Layout in Collection Views |
 | [Sofware Development Resources](https://github.com/alexpaul/SoftwareDevelopmentResources) | A place to get learning resources for iOS, Web, Android etc for your Software Development needs |
 | [JavaScript Primer](https://github.com/alexpaul/JavaScript) | Content assumes you have some prior programming background e.g Swift |
-| [Objective-C Primer](https://github.com/alexpaul/Objective-C-Primer) | Get up and running with Objective-C  |
+| [Objective-C Starter Videos](https://www.youtube.com/watch?v=2CPt99dnroQ&lc=UgzQxOR5YuG_9Pgpqs94AaABAg) | Get up and running with Objective-C in this 3-Part Video Series |
 | [Apple Technologies](https://developer.apple.com/documentation/technologies) | Apple Technologies |
 
 <!--
