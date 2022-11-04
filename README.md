@@ -5,7 +5,7 @@ Community Advisor at [Pursuit](https://www.pursuit.org).
 Continuously on the hunt to better my craft as a Software Engineer.   
 
 Father or a 🐉  and a 🐒.  
-2 x IRONMAN Finisher 🏊🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️  
+3 x IRONMAN Finisher 🏊🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️  
 Multiple Marathon Finisher. 
 
 Read about my journey [here](https://people.com/human-interest/ios-developer-alex-paul-shares-his-incredible-immigration-story/). 
