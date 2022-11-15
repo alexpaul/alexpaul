@@ -14,7 +14,7 @@ Read about my journey [here](https://people.com/human-interest/ios-developer-ale
 
 | Reposittory | Description |
 |:--------:|:----------|
-| [My YouTube Channel](http://youtube.com/alexpaulnyc) | Videos on Swift and iOS, you may also run into an occasional Zwift 🚴 ride |
+| [YouTube Channel](http://youtube.com/alexpaulnyc) | Videos on Swift and iOS, you may also run into an occasional Zwift 🚴 ride |
 | [Celebrate Black Cinema](https://blackcinema.netlify.app/) | A ReactJS application that showcases Black History and Entertainment |
 | [KneeFit iOS App](https://apps.apple.com/us/app/kneefit/id899101811) | A fit knee is a healthy knee |
 | [MilesOfReadn iOS App](https://apps.apple.com/us/app/milesofreadn/id1436642991) | Sight Words for Little Readers|
