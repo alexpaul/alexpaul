@@ -10,6 +10,9 @@ Multiple Marathon Finisher.
 
 Read about my journey [here](https://people.com/human-interest/ios-developer-alex-paul-shares-his-incredible-immigration-story/). 
 
+<a href="https://www.buymeacoffee.com/alexpaulnyc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 ## Additional Pins of interest 
 
 | Reposittory | Description |
