@@ -1,11 +1,11 @@
 ### Hi there 👋🏾
 
-Software Engineer at the New York Times.   
-Community Advisor at [Pursuit](https://www.pursuit.org).  
-Continuously on the hunt to better my craft as a Software Engineer.   
+Senior Software Engineer at the New York Times.   
+Former iOS development instructor at [Pursuit](https://www.pursuit.org), where I helped underrepresented groups launch careers in tech.
+Continuously on the hunt to better my craft.   
 
 Father or a 🐉  and a 🐒.  
-5 x IRONMAN Finisher 🏊🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️  
+7 x IRONMAN Finisher 🏊🏾‍♂️ 🚴🏾‍♂️ 🏃🏾‍♂️  
 Multiple Marathon Finisher. 
 
 Read about my journey [here](https://people.com/human-interest/ios-developer-alex-paul-shares-his-incredible-immigration-story/). 
@@ -26,18 +26,3 @@ Read about my journey [here](https://people.com/human-interest/ios-developer-ale
 | [JavaScript Primer](https://github.com/alexpaul/JavaScript) | Content assumes you have some prior programming background e.g Swift |
 | [Objective-C Starter Videos](https://www.youtube.com/watch?v=2CPt99dnroQ&lc=UgzQxOR5YuG_9Pgpqs94AaABAg) | Get up and running with Objective-C in this 3-Part Video Series |
 | [Apple Technologies](https://developer.apple.com/documentation/technologies) | Apple Technologies |
-
-<!--
-**alexpaul/alexpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
